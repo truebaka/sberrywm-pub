@@ -48,6 +48,8 @@ I genuinely have no idea why everything still works, but it does.
 
 Good luck.
 
+So if u want build it, configure `config.h` pls
+
 ## Inspiration
 
 - vxwm(https://codeberg.org/wh1tepearl/vxwm)
